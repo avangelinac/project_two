@@ -1,25 +1,55 @@
+  463  history 40 > terminal_history.txt
+  464  git commit -m "commit images folder and txt history file"
+  465  git commit -m "commit history and images folder"
+  466  git add .
+  467  history 25 > terminal_history.txt
+  468  git add .
+  469  git commit -m "update"
+  470  git push origin main
+  471  /usr/bin/python3 /Users/lina/Desktop/project_two.py
+  472  git clone https://github.com/avangelinac/project_two.git
+  473  cd desktop
+  474  git clone https://github.com/avangelinac/project_two.git
+  475  cd project_two
   476  git add .
-  477  git commit -m "update"
-  478  git push origin main
-  479  /usr/bin/python3 /Users/lina/Desktop/project_two.py
-  480  git clone https://github.com/avangelinac/project_two.git
-  481  cd desktop
-  482  git clone https://github.com/avangelinac/project_two.git
-  483  cd project_two
-  484  git add .
-  485  gir commit -m "part_one and part_two"
-  486  git commit -m "part_one and part_two"
-  487  git push origin main
-  488  git add .
-  489  git commit -m "step_one through step_two of part_one"
-  490  git push origin main
-  491  git add .
-  492  git commit -m "part_one and part_two"
-  493  git push origin main
-  494  git add .
-  495  git commit -m "update files"
-  496  git push origin main
-  497  git add .
-  498  git commit -m "update files"
-  499  git push origin main
-  500  history 25 > terminal_history.txt
+  477  gir commit -m "part_one and part_two"
+  478  git commit -m "part_one and part_two"
+  479  git push origin main
+  480  git add .
+  481  git commit -m "step_one through step_two of part_one"
+  482  git push origin main
+  483  git add .
+  484  git commit -m "part_one and part_two"
+  485  git push origin main
+  486  git add .
+  487  git commit -m "update files"
+  488  git push origin main
+  489  git add .
+  490  git commit -m "update files"
+  491  git push origin main
+  492  history 25 > terminal_history.txt
+  493  cd add .
+  494  git commit -m "update files"
+  495  git commit -m "update"
+  496  git add .
+  497  git commit "README.md and images folder"
+  498  git push origin main
+  499  cd desktop
+  500  exit
+  501  cd desktop
+  502  cd project_two
+  503  cd add .
+  504  git add .
+  505  git commit -m "README images history"
+  506  git push origin main
+  507  git add .
+  508  git commit -m "README"
+  509  git push origin main
+  510  git add .
+  511  git commit -m "README"
+  512  git push origin main
+  513  git add .
+  514  git commit -m "README"
+  515  git push origin main
+  516  history 25 > terminal_history.txt
+  517  history 55 > terminal_history.txt
