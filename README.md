@@ -74,8 +74,8 @@ pip install python-dotenv
 ```
 ---
 ## Project Documents
-[Project Charter](https://docs.google.com/document/d/1PwWpAx9TNOI1_Te6dbrxN5pMoMWYN-R-o6w_eiTE7Fg/edit?usp=sharing) is a link to a Google document.
-[Project Presentation](https://docs.google.com/presentation/d/142zyyKktEoblm1tSIeBZa16DZEpnM30K_iBPf_0D8tw/edit?usp=sharing) is a link to a Google presentation. 
+[Project Charter](https://docs.google.com/document/d/1nP-jz_CLV25-TVeKC_yvcnKNwsJ0CRHnc7tTFyKvSEk/edit?usp=sharing) is a link to a Google document.
+[Project Presentation](https://docs.google.com/presentation/d/1DXBFapzd6YBwvNoU32vt_G8ZFDDlZIQuLoMcb_Fc0sI/edit?usp=sharing) is a link to a Google presentation. 
 
 ---
 ## Executive Summary
