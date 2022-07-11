@@ -1,5 +1,4 @@
-# project_two
-Project 2
+# machine_learning_trading_bot_project_two
 
 ## Tools
 Code is written using Python version Mac 3.10.4 and runs in a Jupyter Lab notebook. 
