@@ -1,0 +1,25 @@
+  476  git add .
+  477  git commit -m "update"
+  478  git push origin main
+  479  /usr/bin/python3 /Users/lina/Desktop/project_two.py
+  480  git clone https://github.com/avangelinac/project_two.git
+  481  cd desktop
+  482  git clone https://github.com/avangelinac/project_two.git
+  483  cd project_two
+  484  git add .
+  485  gir commit -m "part_one and part_two"
+  486  git commit -m "part_one and part_two"
+  487  git push origin main
+  488  git add .
+  489  git commit -m "step_one through step_two of part_one"
+  490  git push origin main
+  491  git add .
+  492  git commit -m "part_one and part_two"
+  493  git push origin main
+  494  git add .
+  495  git commit -m "update files"
+  496  git push origin main
+  497  git add .
+  498  git commit -m "update files"
+  499  git push origin main
+  500  history 25 > terminal_history.txt
