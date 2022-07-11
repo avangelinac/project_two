@@ -1,13 +1,3 @@
-  463  history 40 > terminal_history.txt
-  464  git commit -m "commit images folder and txt history file"
-  465  git commit -m "commit history and images folder"
-  466  git add .
-  467  history 25 > terminal_history.txt
-  468  git add .
-  469  git commit -m "update"
-  470  git push origin main
-  471  /usr/bin/python3 /Users/lina/Desktop/project_two.py
-  472  git clone https://github.com/avangelinac/project_two.git
   473  cd desktop
   474  git clone https://github.com/avangelinac/project_two.git
   475  cd project_two
@@ -53,3 +43,7 @@
   515  git push origin main
   516  history 25 > terminal_history.txt
   517  history 55 > terminal_history.txt
+  518  git add .
+  519  git commit -m "history"
+  520  git push origin main
+  521  history 49 > terminal_history.txt
