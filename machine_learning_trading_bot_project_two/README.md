@@ -74,8 +74,8 @@ pip install python-dotenv
 ```
 ---
 ## Project Documents
-[Project Charter](https://docs.google.com/document/d/1PwWpAx9TNOI1_Te6dbrxN5pMoMWYN-R-o6w_eiTE7Fg/edit?usp=sharing) is a link to a Google document.
-[Project Presentation](https://docs.google.com/presentation/d/142zyyKktEoblm1tSIeBZa16DZEpnM30K_iBPf_0D8tw/edit?usp=sharing) is a link to a Google presentation. 
+[Project Charter](https://docs.google.com/document/d/1nP-jz_CLV25-TVeKC_yvcnKNwsJ0CRHnc7tTFyKvSEk/edit?usp=sharing) is a link to a Google document.
+[Project Presentation](https://docs.google.com/presentation/d/1DXBFapzd6YBwvNoU32vt_G8ZFDDlZIQuLoMcb_Fc0sI/edit?usp=sharing) is a link to a Google presentation. 
 
 ---
 ## Executive Summary
@@ -95,13 +95,13 @@ Use the starter code file to complete the steps that the instructions outline. T
 * Create an Evaluation Report
 
 ### Part 1: Establish a Baseline Performance
-![Part 1](images/historical_data_one.png)
+![Part 1](images/part_one.png)
 
 ### Part 2: Tune the Baseline Trading Algorithm
-![Part 2](images/cummulative_returns.png)
+![Part 2](images/psrt_two.png)
 
 ### Part 3: Create an Evaluation Report
-![Part 3](images/yahoo_dashboard.png)
+![Part 3](images/part_three.png)
 
 ---
 ## Contributors
@@ -129,7 +129,7 @@ The overall accuracy score of this SVC model with these parameters was 0.55.
 
 Based on the comparison of cumulative returns between the actual returns of the ETF and the returns using the SVC model predictions, predictions using the SVC model returned a slight out-performance (SVC 1.52 vs actual 1.386)
 
-![sw4-lw100-do3](images/sw4-lw100-do3)
+![sw4-lw100-do3](images/one.png)
 
 ---
 
@@ -148,7 +148,7 @@ DateOffset = 24 months
 
 The cumulative returns that resulted from chaning the periods associated with the training and testing data can be seen in the following image. 
 
-![sw4-lw100-do24](images/sw4-lw100-do24)
+![sw4-lw100-do24](images/two.png)
 
 By changing the training window, both the model accuracy score, and the cumlative performace of the strategy did improve. The accuracy score was reported at 0.56 and the cumulative preformace at 1.634%. 
 
@@ -167,7 +167,7 @@ DateOffset = 3 months
 
 An image of the cumulative retrun data for this version of the model is seen below:
 
-![sw50-lw200-do3](images/sw50-lw200-do3)
+![sw50-lw200-do3](images/three.png)
 
 The accuracy score of the SVC model using the above parameters was roughly in-line with the previous models 0.54.
 
@@ -187,7 +187,7 @@ DateOffset = 24 months
 
 As seen in the following image, the model actually returns 1.83% versus actual returns of 1.398%. 
 
-![sw50-lw200-do24](images/sw50-lw200-do24)
+![sw50-lw200-do24](images/four.png)
 
 Not surprisingly, the longer windows allows for better pattern recognition with regard to the behavior of the ETF over time, and the longer training period gives the model additional opportunity to learn based on the data. 
 
@@ -207,7 +207,7 @@ The overall accuracy of the AdaBoost classifier model was in line with the SVC's
 
 The AdaBoost Classifier returned an on overall performance of 1.571 as seen in the following image. 
 
-![ab-sw4-lw100-do3](images/ab-sw4-lw100-do3)
+![ab-sw4-lw100-do3](images/five.png)
 
 Overall, the AdaBoost classifier model outperformed the baseline SVC model, returning 1.57 versus 1.52.
 
