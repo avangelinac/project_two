@@ -98,7 +98,7 @@ Use the starter code file to complete the steps that the instructions outline. T
 ![Part 1](images/part_one.png)
 
 ### Part 2: Tune the Baseline Trading Algorithm
-![Part 2](images/psrt_two.png)
+![Part 2](images/part_two.png)
 
 ### Part 3: Create an Evaluation Report
 ![Part 3](images/part_three.png)
